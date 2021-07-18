@@ -6,8 +6,6 @@ from nltk.stem import PorterStemmer
 import nltk
 import re
 from nltk.corpus import stopwords
-from sklearn import svm
-import itertools
 
 
 class MulticlassSVM:
